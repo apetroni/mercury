@@ -11,18 +11,5 @@
 	<groupId>open-accelerators.mercury.examples</groupId>
 	<artifactId>lib-shared-datamodel</artifactId>
 
-	<repositories>
-		<repository>
-			<id>github</id>
-			<name>GitHub Packages for 'open-accelerators/mercury'</name>
-			<url>https://maven.pkg.github.com/open-accelerators/mercury</url>
-			<releases>
-				<enabled>true</enabled>
-			</releases>
-			<snapshots>
-				<enabled>true</enabled>
-			</snapshots>
-		</repository>
-	</repositories>
 
 </project>

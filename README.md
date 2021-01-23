@@ -26,7 +26,7 @@ We welcome contributions! Here's how you can contribute:
 
 _Make sure to follow the **Code of Conduct** when contributing so we can foster an open and welcoming community._
 
-## License
+## License ##
 
 Copyright 2020-2021 Red Hat, Inc.
 
